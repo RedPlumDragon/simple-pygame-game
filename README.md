@@ -1,5 +1,5 @@
 # UFOh!
-This is just simple pygame game. I named it UFOh! (UFOs block you and you die).
+This is just simple pygame game. I named it UFOh! (UFOs collide with you and you die).
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/79021820/108556043-03512600-72bc-11eb-8e21-6c44283d857a.png)
