@@ -8,4 +8,4 @@ This is just simple pygame game, and I named it UFOh! Controls: WASD or Arrow ke
 ![image](https://user-images.githubusercontent.com/79021820/108556065-0815da00-72bc-11eb-97cf-7855733c3c1b.png)
 
 # Requirements
-You will need to have python 3 and pygame on your computer. To install pygame, run ``pip install pygame`` in your terminal/command_prompt.
+You will need to have Python 3 and pygame installed on your computer. To install pygame, run ``pip install pygame`` in your terminal/command_prompt.
